@@ -22,10 +22,6 @@ This simple SMTP server scanning tool allows you to test a list of SMTP servers 
 
 - The input file should contain one SMTP server configuration per line in the following format: `server:port:login:password`.
 
-## Example Input File:
-smtp.example.com:587:john@example.com:password123
-mail.server.com:587:admin@mail.com:securepass
-
 ## Notes
 
 - Ensure that you have the necessary permissions to run the executable and access the specified input file.
