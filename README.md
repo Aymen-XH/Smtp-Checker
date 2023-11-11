@@ -27,6 +27,5 @@ This simple SMTP server scanning tool allows you to test a list of SMTP servers 
 - Ensure that you have the necessary permissions to run the executable and access the specified input file.
 - Use this tool responsibly and only on servers that you have explicit permission to test.
 
-**Disclaimer:** This tool is provided as-is without any warranties. Use at your own risk.
 
 ---
